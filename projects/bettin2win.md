@@ -1,8 +1,9 @@
 # Bettin2Win — what Grok did
 
-**Repo:** https://github.com/DaCameraGirl/Bettin2Win  
-**Live:** https://dacameragirl.github.io/Bettin2Win/  
-**Local:** `C:\Users\enter\OneDrive\Desktop\Bettin2Win`
+**Code:** [github.com/DaCameraGirl/Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win)  
+**Live:** [dacameragirl.github.io/Bettin2Win](https://dacameragirl.github.io/Bettin2Win/)  
+**Local:** `C:\Users\enter\OneDrive\Desktop\Bettin2Win`  
+**Paper trail:** [groks-work](../README.md) · [PR log](../PR-LOG.md#bettin2win)
 
 ---
 

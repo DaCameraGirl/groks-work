@@ -1,8 +1,9 @@
 # RoseOps Studio — what Grok did
 
-**Repo:** https://github.com/DaCameraGirl/RoseOps-Studio  
-**Live:** https://dacameragirl.github.io/RoseOps-Studio/  
-**Local:** `C:\Users\enter\OneDrive\Desktop\RoseOps     Studio` → `npm start` → http://localhost:3099
+**Code:** [github.com/DaCameraGirl/RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio)  
+**Live:** [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/)  
+**Local:** `C:\Users\enter\OneDrive\Desktop\RoseOps     Studio` → `npm start` → http://localhost:3099  
+**Paper trail:** [groks-work](../README.md) · [PR log](../PR-LOG.md#roseops-studio)
 
 ---
 

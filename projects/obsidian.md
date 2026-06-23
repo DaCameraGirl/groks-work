@@ -1,8 +1,9 @@
 # Project Obsidian — what Grok did
 
-**Repo:** https://github.com/DaCameraGirl/Obsidian (private)  
+**Code:** [github.com/DaCameraGirl/Obsidian](https://github.com/DaCameraGirl/Obsidian) (private)  
 **Local:** `C:\Users\enter\OneDrive\Desktop\Project Obsidian`  
-**The tool:** double-click `rubric-generator.html`
+**The tool:** double-click `rubric-generator.html`  
+**Paper trail:** [groks-work](../README.md) · [PR log](../PR-LOG.md#project-obsidian)
 
 ---
 

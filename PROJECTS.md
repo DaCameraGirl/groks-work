@@ -2,13 +2,13 @@
 
 Master index of everything Grok helped build, PR, and merge with Angela (DaCameraGirl), June 2026.
 
-| Project | Repo | Live / local | Grok's role |
-|---------|------|--------------|-------------|
-| **RoseOps Studio** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [Pages](https://dacameragirl.github.io/RoseOps-Studio/) · `localhost:3099` | Workflow studio, LLM integrations, in-app setup guides, credentials vault |
-| **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Pages](https://dacameragirl.github.io/Bettin2Win/) | Weather Impact, matchup grouping, board filters, README language bar + 9 i18n variants |
-| **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` (double-click, local) | Rubric generator fixes, WHOOP gold examples, Multimango workflow alignment, auto-repair |
+| Project | Code | Live | My write-up |
+|---------|------|------|-------------|
+| **RoseOps Studio** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [Open app](https://dacameragirl.github.io/RoseOps-Studio/) · `localhost:3099` | [roseops.md](./projects/roseops.md) |
+| **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) | [bettin2win.md](./projects/bettin2win.md) |
+| **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` on Desktop | [obsidian.md](./projects/obsidian.md) |
 
-**This repo (`groks-work`)** is the session log — not a copy of any app.
+**This repo:** [groks-work](https://github.com/DaCameraGirl/groks-work) · **All public projects:** [links hub](https://dacameragirl.github.io/links/) · [links repo](https://github.com/DaCameraGirl/links)
 
 ### What Grok did in each project (detailed)
 

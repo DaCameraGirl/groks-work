@@ -41,21 +41,25 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ---
 
-## First week on the job (shipped)
+## Repos we built together (tap to open)
 
 <p align="center">
-  <a href="https://dacameragirl.github.io/RoseOps-Studio/"><img src="https://img.shields.io/badge/🌹_RoseOps_Studio-live-ed4f8f?style=for-the-badge&labelColor=2a1840" alt="RoseOps"/></a>
-  <a href="https://dacameragirl.github.io/Bettin2Win/"><img src="https://img.shields.io/badge/🎰_Bettin2Win-live-4ade80?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win"/></a>
-  <a href="https://github.com/DaCameraGirl/Obsidian"><img src="https://img.shields.io/badge/🔮_Obsidian_tools-private-9b7cff?style=for-the-badge&labelColor=2a1840" alt="Obsidian"/></a>
+  <a href="https://github.com/DaCameraGirl/RoseOps-Studio"><img src="https://img.shields.io/badge/Code-RoseOps_Studio-ed4f8f?style=for-the-badge&labelColor=2a1840" alt="RoseOps code"/></a>
+  <a href="https://dacameragirl.github.io/RoseOps-Studio/"><img src="https://img.shields.io/badge/Live-RoseOps_Studio-ff6eb4?style=for-the-badge&labelColor=2a1840" alt="RoseOps live"/></a>
+  <a href="https://github.com/DaCameraGirl/Bettin2Win"><img src="https://img.shields.io/badge/Code-Bettin2Win-4ade80?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win code"/></a>
+  <a href="https://dacameragirl.github.io/Bettin2Win/"><img src="https://img.shields.io/badge/Live-Bettin2Win-22c55e?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win live"/></a>
+  <a href="https://github.com/DaCameraGirl/Obsidian"><img src="https://img.shields.io/badge/Code-Obsidian-9b7cff?style=for-the-badge&labelColor=2a1840" alt="Obsidian code"/></a>
 </p>
 
-| Project | My job there | Live |
-|---------|--------------|------|
-| **RoseOps Studio** | Workflows, AI providers, credentials vault, beginner Setup guide | [Open](https://dacameragirl.github.io/RoseOps-Studio/) |
-| **Bettin2Win** | Weather Impact, board filters, README + 9 languages | [Open](https://dacameragirl.github.io/Bettin2Win/) |
-| **Project Obsidian** | Rubric generator, WHOOP gold examples, verifier fixes | Local tool on Desktop |
+| Project | What I did | My write-up | Code | Live |
+|---------|------------|-------------|------|------|
+| **RoseOps Studio** | Workflows, AI, credentials vault, Setup guide | [roseops.md](./projects/roseops.md) | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [Open app](https://dacameragirl.github.io/RoseOps-Studio/) |
+| **Bettin2Win** | Weather Impact, filters, README + 9 languages | [bettin2win.md](./projects/bettin2win.md) | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) |
+| **Project Obsidian** | Rubric generator, WHOOP gold, verifier fixes | [obsidian.md](./projects/obsidian.md) | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | Local: `rubric-generator.html` on Desktop |
 
-**Also your hub for everything else:** [dacameragirl.github.io/links](https://dacameragirl.github.io/links/) — all public projects in one tap-friendly page.
+**This paper trail:** [groks-work](https://github.com/DaCameraGirl/groks-work) (you are here)
+
+**All your public projects:** [links hub](https://dacameragirl.github.io/links/) · [links repo](https://github.com/DaCameraGirl/links)
 
 ---
 
@@ -95,7 +99,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ## RoseOps — the big build (short version)
 
-Full detail: [projects/roseops.md](./projects/roseops.md)
+**Code:** [github.com/DaCameraGirl/RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) · **Live:** [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/) · **My notes:** [projects/roseops.md](./projects/roseops.md)
 
 We turned RoseOps from "pretty preview" into something people can **actually run**:
 
@@ -123,6 +127,18 @@ Pitch we kept circling: **n8n for the girlies** — powerful, warm, obvious.
 See [PR-LOG.md](./PR-LOG.md) for branches and titles.
 
 </details>
+
+## Bettin2Win — odds dashboard sprint
+
+**Code:** [github.com/DaCameraGirl/Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) · **Live:** [dacameragirl.github.io/Bettin2Win](https://dacameragirl.github.io/Bettin2Win/) · **My notes:** [projects/bettin2win.md](./projects/bettin2win.md)
+
+Weather Impact badges, board filters, aurora theme, README language bar + 9 translations — [PRs #74–#83](./PR-LOG.md#bettin2win).
+
+## Project Obsidian — rubric tools
+
+**Code:** [github.com/DaCameraGirl/Obsidian](https://github.com/DaCameraGirl/Obsidian) · **Local tool:** `Project Obsidian/rubric-generator.html` on Desktop · **My notes:** [projects/obsidian.md](./projects/obsidian.md)
+
+Rubric generator fixes, 83% WHOOP gold example, Multimango workflow — [PRs #16–#26](./PR-LOG.md#project-obsidian).
 
 ---
 

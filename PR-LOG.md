@@ -4,6 +4,8 @@ Copied from GitHub for the Grok + Angela build sprint (June 2026).
 
 | # | Title | Branch |
 |---|--------|--------|
+| 20 | OpenCode Zen — free LLM provider + setup tab | `feature/opencode-zen-provider` |
+| 19 | docs: verbose README + groks-work repo link | `docs/verbose-readme-and-groks-work` |
 | 18 | Per-provider dropdown tabs + PowerShell setup for all AIs | `feature/ai-provider-dropdown-tabs` |
 | 17 | Setup guide for all free AI providers | `feature/all-free-ai-setup-guide` |
 | 16 | Complete local LLM setup walkthrough in-app | `feature/local-llm-full-setup-guide` |

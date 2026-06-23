@@ -96,11 +96,21 @@ Angela approves direction in chat. Grok does git mechanics: branches, PRs, merge
 - Queued execution, SSE live logs
 - Credentials: AES-256-GCM vault
 - Node types: HTTP, Code, Delay, Filter, Email, Webhook, Schedule, Discord, GitHub, Sheets, **LLM**
-- LLM providers: `openai`, `google`, `deepseek`, `xai`, `anthropic`, `azure`, `ollama`
+- LLM providers: `openai`, `google`, `deepseek`, `xai`, `anthropic`, `azure`, `opencode`, `ollama`
 
 ### Credential types
 
-`openai_api` · `google_gemini` · `deepseek_api` · `xai_grok` · `anthropic_api` · `azure_openai` · `ollama_local` · plus integration types (SMTP, Discord, GitHub, etc.)
+`openai_api` · `google_gemini` · `deepseek_api` · `xai_grok` · `anthropic_api` · `azure_openai` · `opencode_zen` · `ollama_local` · plus integration types (SMTP, Discord, GitHub, etc.)
+
+### OpenCode Zen (Angela asked to remember)
+
+[OpenCode](https://opencode.ai) is an open-source AI coding agent with **75+ providers** and **several completely free models** on [OpenCode Zen](https://opencode.ai/zen):
+
+- `deepseek-v4-flash-free`, `mimo-v2.5-free`, `big-pickle`, `north-mini-code-free`, `nemotron-3-ultra-free`
+- API: `https://opencode.ai/zen/v1/chat/completions` (OpenAI-compatible)
+- Key: [opencode.ai/auth](https://opencode.ai/auth)
+- Windows PowerShell: `npm i -g opencode-ai` or `scoop install opencode` or `choco install opencode`
+- In RoseOps: provider **opencode**, model e.g. `deepseek-v4-flash-free`
 
 ### Desktop / local launch
 

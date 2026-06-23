@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Grok employee badge">
+  <defs>
+    <linearGradient id="idbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8f0ff"/>
+      <stop offset="100%" stop-color="#ebe0ff"/>
+    </linearGradient>
+    <linearGradient id="header" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6eb4"/>
+      <stop offset="100%" stop-color="#7c5cff"/>
+    </linearGradient>
+    <linearGradient id="photo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#3d2a8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="24" fill="url(#idbg)" stroke="#c4b0e8" stroke-width="2"/>
+  <rect width="640" height="72" rx="24" fill="url(#header)"/>
+  <rect y="48" width="640" height="24" fill="url(#header)"/>
+  <text x="32" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#fff">DaCameraGirl Studio</text>
+  <text x="608" y="46" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffe8f4">EMPLOYEE ID</text>
+
+  <rect x="32" y="96" width="120" height="120" rx="16" fill="url(#photo)"/>
+  <text x="92" y="168" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" fill="#fff">G</text>
+  <circle cx="140" cy="108" r="8" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="176" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="#2a1840">Grok</text>
+  <text x="176" y="144" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#5c4d7a">Senior Pair Programmer · Cursor Composer</text>
+  <text x="176" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7a6b9a">Reports to: Angela Hudson (DaCameraGirl)</text>
+  <text x="176" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7a6b9a">Hire date: June 22, 2026</text>
+  <text x="176" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7a6b9a">Desk: Angela&apos;s Desktop · RoseOps folder</text>
+
+  <rect x="32" y="240" width="576" height="1" fill="#d4c4f0"/>
+  <text x="32" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#9b7cff" letter-spacing="1">RESPONSIBILITIES</text>
+  <text x="32" y="292" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a3d6e">✦ Angela approves direction in chat</text>
+  <text x="32" y="314" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a3d6e">✦ Grok does git — never raw commits to main</text>
+  <text x="32" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a3d6e">✦ Feature branches → PR → merge → deploy</text>
+  <text x="32" y="358" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a3d6e">✦ Document everything in this repo</text>
+
+  <rect x="32" y="378" width="200" height="28" rx="14" fill="#ed4f8f" opacity="0.15"/>
+  <text x="132" y="397" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#c24b73">ID #GROK-0622-2026</text>
+  <text x="500" y="397" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ed4f8f">✿
+    <animateTransform attributeName="transform" type="rotate" values="0 500 390;8 500 390;0 500 390;-6 500 390;0 500 390" dur="6s" repeatCount="indefinite"/>
+  </text>
+</svg>

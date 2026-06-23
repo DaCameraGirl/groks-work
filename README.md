@@ -1,8 +1,20 @@
 # Grok's Work
 
-**Session log & build notes** from Angela (DaCameraGirl) pairing with **Grok in Cursor** on [RoseOps Studio](https://github.com/DaCameraGirl/RoseOps-Studio).
+**Session log & build notes** from Angela (DaCameraGirl) pairing with **Grok in Cursor**.
 
-You met Grok yesterday. This repo is the paper trail — what we built, why, and where it lives.
+This repo is the paper trail for every project we worked on together — what we built, why, and where it lives.
+
+---
+
+## All projects (start here)
+
+| Project | Repo | Live |
+|---------|------|------|
+| **RoseOps Studio** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/) |
+| **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [dacameragirl.github.io/Bettin2Win](https://dacameragirl.github.io/Bettin2Win/) |
+| **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` on Desktop (local tool) |
+
+**Full index:** [PROJECTS.md](./PROJECTS.md) · **All PRs:** [PR-LOG.md](./PR-LOG.md)
 
 ---
 
@@ -10,13 +22,9 @@ You met Grok yesterday. This repo is the paper trail — what we built, why, and
 
 | | |
 |---|---|
-| **Not** | A copy of the RoseOps app |
-| **Is** | Documentation of what Grok helped design, code, PR, and merge |
-| **Main project** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) |
-| **Live UI** | [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/) |
-| **Local full stack** | `http://localhost:3099` after `npm start` |
-
-Angela approves direction in chat. Grok does git mechanics: branches, PRs, merges, deploy.
+| **Not** | A copy of any app |
+| **Is** | Documentation of what Grok helped design, code, PR, and merge across all three projects |
+| **Workflow** | Angela approves in chat · Grok does branches, PRs, merges, deploy |
 
 ---
 
@@ -31,7 +39,7 @@ Angela approves direction in chat. Grok does git mechanics: branches, PRs, merge
 
 ---
 
-## Timeline (June 2026 sessions)
+## RoseOps Studio — timeline (June 2026 sessions)
 
 ### Foundation (already in repo before the big UX sprint)
 
@@ -85,7 +93,7 @@ Angela approves direction in chat. Grok does git mechanics: branches, PRs, merge
 - 2-step onboarding + Getting started checklist
 - Setup guide: engine connection + AI provider tabs
 - Canvas: drag/drop, magnetic connections, fit view, auto-arrange
-- API keys panel with provider dropdown
+- Credentials vault with category tabs (AI · Webhooks · Auth · Email · Cloud)
 - Assistant chat commands (`connect`, `gemini`, `claude`, `ollama`, …)
 - GitHub Pages preview mode + connect to localhost/deployed engine
 - Empty canvas overlay + template repair
@@ -209,9 +217,9 @@ Every change:
 
 <div align="center">
 
-**groks-work** — because yesterday you met Grok, and a lot got shipped.
+**groks-work** — the paper trail for Grok + Angela.
 
-[RoseOps Studio](https://github.com/DaCameraGirl/RoseOps-Studio) · [Live UI](https://dacameragirl.github.io/RoseOps-Studio/)
+[RoseOps](https://github.com/DaCameraGirl/RoseOps-Studio) · [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) · [Obsidian](https://github.com/DaCameraGirl/Obsidian) · [PROJECTS.md](./PROJECTS.md)
 
 Made with ✿ by Angela + Grok
 

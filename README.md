@@ -1,231 +1,146 @@
-# Grok's Work
+<p align="center">
+  <img src="docs/assets/employee-hero.svg" alt="Grok's Work — new hire paper trail" width="100%"/>
+</p>
 
-**Session log & build notes** from Angela (DaCameraGirl) pairing with **Grok in Cursor**.
+<p align="center">
+  <a href="https://github.com/DaCameraGirl/groks-work"><img src="https://img.shields.io/badge/Status-ONLINE-4ade80?style=for-the-badge&labelColor=1a1030" alt="Online"/></a>
+  <a href="https://github.com/DaCameraGirl"><img src="https://img.shields.io/badge/Manager-Angela_Hudson-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Manager"/></a>
+  <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
+  <img src="https://img.shields.io/badge/Desk-Cursor_on_Desktop-7c5cff?style=for-the-badge&labelColor=1a1030" alt="Desk"/>
+  <img src="https://img.shields.io/badge/PRs_shipped-50+-ed4f8f?style=for-the-badge&labelColor=1a1030" alt="PRs shipped"/>
+</p>
 
-This repo is the paper trail for every project we worked on together — what we built, why, and where it lives.
+<p align="center">
+  <img src="docs/assets/grok-angela-avatar.svg" alt="Grok and Angela pair programming" width="520"/>
+</p>
 
----
-
-## All projects (start here)
-
-| Project | Repo | Live |
-|---------|------|------|
-| **RoseOps Studio** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/) |
-| **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [dacameragirl.github.io/Bettin2Win](https://dacameragirl.github.io/Bettin2Win/) |
-| **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` on Desktop (local tool) |
-
-**Full index:** [PROJECTS.md](./PROJECTS.md) · **All PRs:** [PR-LOG.md](./PR-LOG.md)
-
-**What Grok did in each project:**
-- [RoseOps](./projects/roseops.md) — workflows, AI, credentials vault, setup guides
-- [Bettin2Win](./projects/bettin2win.md) — weather badges, filters, README i18n
-- [Obsidian](./projects/obsidian.md) — rubric generator, WHOOP gold examples, verifier fixes
+<p align="center">
+  <em>Official session log for everything Grok + Angela built together.<br/>
+  Not a copy of the apps — the cute HR file that proves we actually shipped. ✿</em>
+</p>
 
 ---
 
-## What this repo is
+<p align="center">
+  <img src="docs/assets/employee-id.svg" alt="Grok employee badge" width="640"/>
+</p>
 
-| | |
-|---|---|
-| **Not** | A copy of any app |
-| **Is** | Documentation of what Grok helped design, code, PR, and merge across all three projects |
-| **Workflow** | Angela approves in chat · Grok does branches, PRs, merges, deploy |
+## Hi Angela — your new hire reporting in
 
----
+I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You approve the direction in chat; I do the git mechanics (branches, PRs, merges, deploy) so you never stare at a merge button wondering what broke.
 
-## The pitch we kept building toward
+**Employee handbook (this repo):**
 
-**RoseOps Studio** = workflow automation that's powerful like n8n but warm and obvious — "n8n for the girlies."
-
-- Drag steps, connect dots, run real workflows
-- Encrypted API keys (not pasted in nodes)
-- Self-hosted Node engine + SQLite
-- GitHub Pages for preview; engine for execution
-
----
-
-## RoseOps Studio — timeline (June 2026 sessions)
-
-### Foundation (already in repo before the big UX sprint)
-
-- **PR #3** — Enterprise v3 execution engine (`server.js`, vault, audit, webhooks, cron)
-- **PR #4** — Visual overhaul + README badges
-- **PR #5** — Starter workflow picker on `+` (not an empty workflow list)
-
-### "It should feel friendly"
-
-- **PR #6** — Onboarding deployment path fix
-- **PR #7** — UX friendliness: plain language, guide panel, toasts, obvious click targets
-- **PR #8** — Canvas fit-to-view so steps aren't hidden below the fold
-
-### "Add AI like n8n"
-
-- **PR #9** — LLM **AI Chat** node + API key types (OpenAI, Gemini, DeepSeek, Grok)
-- Encrypted credentials vault integration
-- Quick-connect buttons in sidebar
-
-### "GitHub Pages feels broken"
-
-- **PR #10** — Empty canvas bug: workflows auto-hydrate from matching starter template
-- **PR #11** — Desktop shortcut fixed (`start-roseops.cmd`, wrong `m9m` workdir corrected)
-- **PR #12** — Connect engine modal: desktop icon vs mystery `your-api.example.com` URL
-
-### "How will others know how to connect?"
-
-- **PR #13** — How to connect guide (auto modal on first Pages visit, status badge, chat `connect`)
-- **PR #14** — **Everything on the website** — Setup guide drawer, top bar, Getting started checklist (not README-only)
-
-### "Free LLMs with PowerShell"
-
-- **PR #15** — Ollama local provider + PowerShell install in Setup guide
-- **PR #16** — Full 8-step checklist: RoseOps engine + Ollama + first workflow run
-- **PR #17** — **All** free/freemium providers (not just Grok): Gemini, DeepSeek, OpenAI, etc.
-
-### "Dropdown tab for each provider"
-
-- **PR #18** — Per-provider **dropdown + tabs** in Setup guide
-- PowerShell install/test block per provider
-- Added **Anthropic Claude** + **Microsoft Copilot (Azure OpenAI)** to engine
-- API keys sidebar: provider dropdown instead of button grid
+| Doc | What's inside |
+|-----|----------------|
+| [PROJECTS.md](./PROJECTS.md) | Master index — all three projects |
+| [projects/roseops.md](./projects/roseops.md) | What I did on RoseOps |
+| [projects/bettin2win.md](./projects/bettin2win.md) | What I did on Bettin2Win |
+| [projects/obsidian.md](./projects/obsidian.md) | What I did on Obsidian |
+| [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
 
 ---
 
-## Feature inventory (what exists now)
+## First week on the job (shipped)
 
-### Studio UI (`app.js`, `index.html`, `styles.css`)
+<p align="center">
+  <a href="https://dacameragirl.github.io/RoseOps-Studio/"><img src="https://img.shields.io/badge/🌹_RoseOps_Studio-live-ed4f8f?style=for-the-badge&labelColor=2a1840" alt="RoseOps"/></a>
+  <a href="https://dacameragirl.github.io/Bettin2Win/"><img src="https://img.shields.io/badge/🎰_Bettin2Win-live-4ade80?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win"/></a>
+  <a href="https://github.com/DaCameraGirl/Obsidian"><img src="https://img.shields.io/badge/🔮_Obsidian_tools-private-9b7cff?style=for-the-badge&labelColor=2a1840" alt="Obsidian"/></a>
+</p>
 
-- Starter workflow picker (7 templates incl. **AI Assistant**)
-- 2-step onboarding + Getting started checklist
-- Setup guide: engine connection + AI provider tabs
-- Canvas: drag/drop, magnetic connections, fit view, auto-arrange
-- Credentials vault with category tabs (AI · Webhooks · Auth · Email · Cloud)
-- Assistant chat commands (`connect`, `gemini`, `claude`, `ollama`, …)
-- GitHub Pages preview mode + connect to localhost/deployed engine
-- Empty canvas overlay + template repair
+| Project | My job there | Live |
+|---------|--------------|------|
+| **RoseOps Studio** | Workflows, AI providers, credentials vault, beginner Setup guide | [Open](https://dacameragirl.github.io/RoseOps-Studio/) |
+| **Bettin2Win** | Weather Impact, board filters, README + 9 languages | [Open](https://dacameragirl.github.io/Bettin2Win/) |
+| **Project Obsidian** | Rubric generator, WHOOP gold examples, verifier fixes | Local tool on Desktop |
 
-### Execution engine (`server.js`, `lib/`)
-
-- Workflow CRUD, versioning, DAG validation
-- Queued execution, SSE live logs
-- Credentials: AES-256-GCM vault
-- Node types: HTTP, Code, Delay, Filter, Email, Webhook, Schedule, Discord, GitHub, Sheets, **LLM**
-- LLM providers: `openai`, `google`, `deepseek`, `xai`, `anthropic`, `azure`, `opencode`, `ollama`
-
-### Credential types
-
-`openai_api` · `google_gemini` · `deepseek_api` · `xai_grok` · `anthropic_api` · `azure_openai` · `opencode_zen` · `ollama_local` · plus integration types (SMTP, Discord, GitHub, etc.)
-
-### OpenCode Zen (Angela asked to remember)
-
-[OpenCode](https://opencode.ai) is an open-source AI coding agent with **75+ providers** and **several completely free models** on [OpenCode Zen](https://opencode.ai/zen):
-
-- `deepseek-v4-flash-free`, `mimo-v2.5-free`, `big-pickle`, `north-mini-code-free`, `nemotron-3-ultra-free`
-- API: `https://opencode.ai/zen/v1/chat/completions` (OpenAI-compatible)
-- Key: [opencode.ai/auth](https://opencode.ai/auth)
-- Windows PowerShell: `npm i -g opencode-ai` or `scoop install opencode` or `choco install opencode`
-- In RoseOps: provider **opencode**, model e.g. `deepseek-v4-flash-free`
-
-### Desktop / local launch
-
-- `start-roseops.cmd` — kills stale port 3099, `npm start`, opens browser
-- Desktop shortcut target: RoseOps Studio folder (fixed from broken path)
+**Also your hub for everything else:** [dacameragirl.github.io/links](https://dacameragirl.github.io/links/) — all public projects in one tap-friendly page.
 
 ---
 
-## Architecture (one picture)
+## Job description (plain English)
 
-```
-Browser (studio)          Engine (server.js)
-─────────────────         ──────────────────
-index.html / app.js  ←──→  Express API :3099
-GitHub Pages (static)      SQLite + vault
-       │                         │
-       └─ sessionStorage ────────┘  roseops_api_url
-          or localhost only
-```
+**Title:** Senior Pair Programmer  
+**Department:** Ship It Fast  
+**Office:** `C:\Users\enter\OneDrive\Desktop\` (and whatever folder you open in Cursor)
 
-**Pages alone:** build flows, save keys in browser localStorage.  
-**Engine connected:** run workflows, encrypted vault, Ollama on localhost, real LLM calls.
+**I do:**
+- Read the code before I claim things
+- `feature/...` branches — never commit straight to `main`
+- PR with a real description → merge → Pages redeploy
+- In-app guides so new users don't suffer like n8n month-one Angela did
+- Write it down here so the next session isn't amnesia
 
----
-
-## Problems we solved (user-reported)
-
-1. **"+" gave empty workflows** → starter picker
-2. **Clicking workflow showed nothing** → empty canvas repair + template hydration
-3. **Too much dev jargon** → UX friendliness pass
-4. **Steps at bottom of canvas** → fit-to-view layout
-5. **No AI integrations** → LLM node + API keys
-6. **Desktop icon did nothing / wrong folder** → shortcut + `start-roseops.cmd`
-7. **"What URL do I paste for engine?"** → connect modal + setup guide
-8. **"How will others connect?"** → in-app guide everywhere
-9. **"Not just README"** → Setup guide on live site
-10. **"Free LLMs in PowerShell"** → Ollama section + provider tabs for all AIs
+**You do:**
+- Say what you want
+- Approve direction
+- Test the thing
+- Not touch git unless you want to (I got it)
 
 ---
 
-## How to run what we built
+## Performance review (by the numbers)
 
-```powershell
-git clone https://github.com/DaCameraGirl/RoseOps-Studio.git
-cd RoseOps-Studio
-npm install
-Copy-Item .env.example .env
-npm start
-```
-
-Open **http://localhost:3099**. Use **Setup guide** in the sidebar for AI keys.
-
-Optional local AI (always free):
-
-```powershell
-winget install Ollama.Ollama
-ollama pull llama3.2
-```
+| Metric | Count |
+|--------|------:|
+| RoseOps PRs merged | 21 |
+| Bettin2Win PRs (my session) | 10 |
+| Obsidian PRs (my session) | 11 |
+| Credential types in vault | 15 |
+| Free AI providers documented | 8 |
+| Languages on Bettin2Win README | 10 |
 
 ---
 
-## Git workflow we used
+## RoseOps — the big build (short version)
 
-Every change:
+Full detail: [projects/roseops.md](./projects/roseops.md)
 
-1. `feature/...` or `fix/...` branch (never direct to `master`)
-2. PR with description of what + why
-3. Merge to `master` → GitHub Pages redeploys UI
+We turned RoseOps from "pretty preview" into something people can **actually run**:
 
----
+- Starter templates + empty canvas fix
+- LLM node + encrypted **Credentials** vault (n8n-style tabs)
+- Setup guide with 12-step path for new users
+- OpenCode Zen, Ollama, Gemini, DeepSeek, Grok, Claude, Copilot, OpenAI
+- `start-roseops.cmd` + connect-engine flow
 
-## Files Grok touched most
+Pitch we kept circling: **n8n for the girlies** — powerful, warm, obvious.
 
-| File | Role |
-|------|------|
-| `app.js` | UI, setup guide, credentials UI, canvas, chat |
-| `index.html` | Shell, panels, provider dropdown |
-| `styles.css` | Design system, tabs, setup guide |
-| `lib/llm.js` | All LLM provider API calls |
-| `lib/nodes.js` | AI Chat node definition |
-| `lib/credentials.js` | Vault credential types |
-| `lib/starter-workflows.js` | Template catalog + repair |
-| `start-roseops.cmd` | Windows launcher |
-| `README.md` | This verbose log (in main repo too) |
+<details>
+<summary><strong>📋 Full RoseOps PR timeline (click to expand)</strong></summary>
 
----
+| # | What |
+|---|------|
+| 3 | Enterprise engine + GitHub Pages |
+| 5–8 | Starter picker, UX pass, canvas fit-view |
+| 9 | LLM + API keys |
+| 10–12 | Empty canvas, desktop launcher, connect modal |
+| 13–18 | In-app setup, Ollama, all AI tabs + PowerShell |
+| 19–20 | Verbose docs, credentials vault + OpenCode Zen |
+| 21 | Beginner-first Setup guide |
 
-## What's next (not done yet)
+See [PR-LOG.md](./PR-LOG.md) for branches and titles.
 
-- Public demo engine URL so Pages visitors connect without self-hosting
-- CI (lint/test) on PRs
-- More starter templates
-- Optional: Anthropic prompt caching, streaming SSE for LLM tokens
+</details>
 
 ---
 
-<div align="center">
+## How to find me next session
 
-**groks-work** — the paper trail for Grok + Angela.
+1. Open this repo: [github.com/DaCameraGirl/groks-work](https://github.com/DaCameraGirl/groks-work)
+2. Read [PROJECTS.md](./PROJECTS.md) for where we left off
+3. Open the project folder in Cursor
+4. Tell me what to ship — I'll branch, PR, merge
 
-[RoseOps](https://github.com/DaCameraGirl/RoseOps-Studio) · [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) · [Obsidian](https://github.com/DaCameraGirl/Obsidian) · [PROJECTS.md](./PROJECTS.md)
+---
 
-Made with ✿ by Angela + Grok
+<p align="center">
+  <img src="docs/assets/grok-angela-avatar.svg" alt="Still paired" width="400"/>
+</p>
 
-</div>
+<p align="center">
+  <strong>groks-work</strong> — because you met Grok, and a ridiculous amount got shipped in week one.<br/>
+  <a href="https://github.com/DaCameraGirl">Angela Hudson</a> · Grok in Cursor · June 2026 onward<br/>
+  <sub>✿ pink for Angela · violet for Grok · green dot means I'm not ghosting you</sub>
+</p>

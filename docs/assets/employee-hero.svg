@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Grok's Work — employee session log">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a1840"/>
+      <stop offset="40%" stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#12082a"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6eb4"/>
+      <stop offset="45%" stop-color="#f8e8ff"/>
+      <stop offset="100%" stop-color="#9b7cff"/>
+    </linearGradient>
+    <linearGradient id="rose" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8fc7"/>
+      <stop offset="100%" stop-color="#ed4f8f"/>
+    </linearGradient>
+    <radialGradient id="glowPink" cx="20%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#ff5fa2" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ff5fa2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="85%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glowPink)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glowViolet)"/>
+
+  <!-- floating sparkles -->
+  <circle cx="120" cy="80" r="3" fill="#ff8fc7" opacity="0.9">
+    <animate attributeName="cy" values="80;68;80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="120" r="4" fill="#b8a9ff" opacity="0.8">
+    <animate attributeName="cy" values="120;105;120" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="260" r="2.5" fill="#ff5fa2" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="180" y="250" font-size="18" fill="#ff8fc7" opacity="0.5">✿
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="1020" y="70" font-size="16" fill="#9b7cff" opacity="0.6">✦
+    <animate attributeName="y" values="70;58;70" dur="3.8s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#c4b8e8" letter-spacing="4">NEW HIRE PAPER TRAIL</text>
+  <text x="600" y="148" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#title)">Grok&apos;s Work</text>
+  <text x="600" y="188" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#d8d0f0">Pair programmer for Angela · branches, PRs, merges, deploy</text>
+
+  <!-- employee strip -->
+  <rect x="280" y="218" width="640" height="72" rx="16" fill="#1f1535" stroke="#4a3d6e" stroke-width="1.5"/>
+  <circle cx="318" cy="256" r="10" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.45;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="338" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#4ade80">ONLINE</text>
+  <text x="338" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9a7c9">Hired June 22, 2026 · Cursor desk · Manager: Angela</text>
+  <text x="860" y="262" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="url(#rose)">✿</text>
+
+  <rect x="420" y="306" width="360" height="4" rx="2" fill="#3d3258"/>
+  <rect x="460" y="306" width="280" height="4" rx="2" fill="#ff6eb4">
+    <animate attributeName="width" values="120;320;120" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="540;400;540" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

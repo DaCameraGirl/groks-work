@@ -16,6 +16,11 @@ This repo is the paper trail for every project we worked on together — what we
 
 **Full index:** [PROJECTS.md](./PROJECTS.md) · **All PRs:** [PR-LOG.md](./PR-LOG.md)
 
+**What Grok did in each project:**
+- [RoseOps](./projects/roseops.md) — workflows, AI, credentials vault, setup guides
+- [Bettin2Win](./projects/bettin2win.md) — weather badges, filters, README i18n
+- [Obsidian](./projects/obsidian.md) — rubric generator, WHOOP gold examples, verifier fixes
+
 ---
 
 ## What this repo is

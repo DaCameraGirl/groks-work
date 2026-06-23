@@ -10,6 +10,14 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 
 **This repo (`groks-work`)** is the session log — not a copy of any app.
 
+### What Grok did in each project (detailed)
+
+| Project | Read this for specifics |
+|---------|-------------------------|
+| RoseOps Studio | [projects/roseops.md](./projects/roseops.md) |
+| Bettin2Win | [projects/bettin2win.md](./projects/bettin2win.md) |
+| Project Obsidian | [projects/obsidian.md](./projects/obsidian.md) |
+
 ---
 
 ## RoseOps Studio
@@ -28,7 +36,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 - **Credentials vault** — n8n-style category tabs (AI · Webhooks · Auth · Email · Cloud)
 - OpenCode Zen free models provider
 
-**Detail:** see [README.md](./README.md) and [PR-LOG.md](./PR-LOG.md#roseops-studio)
+**What Grok did:** [projects/roseops.md](./projects/roseops.md) · PRs: [PR-LOG.md](./PR-LOG.md#roseops-studio) · Long log: [README.md](./README.md)
 
 ---
 
@@ -54,7 +62,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 
 **Also credited in Bettin2Win README Contributors:** Grok — Weather Impact, matchup grouping, board filters, README & i18n.
 
-**Detail:** [PR-LOG.md](./PR-LOG.md#bettin2win)
+**What Grok did:** [projects/bettin2win.md](./projects/bettin2win.md) · PRs: [PR-LOG.md](./PR-LOG.md#bettin2win)
 
 ---
 
@@ -84,7 +92,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 
 **Key lesson locked in:** 83% is an accepted pass for incomplete WHOOP trajectories (calendar down, CSV only). Gold template: `examples/whoop-calendar-sheets-83pct.md`.
 
-**Detail:** [PR-LOG.md](./PR-LOG.md#project-obsidian)
+**What Grok did:** [projects/obsidian.md](./projects/obsidian.md) · PRs: [PR-LOG.md](./PR-LOG.md#project-obsidian)
 
 ---
 

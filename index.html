@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grok's Desk — Angela's pair programmer</title>
+<link rel="icon" href="docs/assets/favicon.svg" type="image/svg+xml">
+<meta name="description" content="Session log for everything Grok + Angela shipped — RoseOps, Bettin2Win, Obsidian.">
+<style>
+  :root{
+    --bg:#12082a; --card:#1f1535; --ink:#f4f3ff; --muted:#a9a7c9;
+    --rose:#ff6eb4; --violet:#9b7cff; --ring:#4a3d6e; --green:#4ade80;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:radial-gradient(900px 500px at 50% -5%, #2a1840 0%, var(--bg) 60%);
+    color:var(--ink);
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  .wrap{max-width:680px;margin:0 auto;padding:24px 18px 64px}
+  .hero{display:block;width:100%;border-radius:18px;margin:0 0 16px}
+  .status{
+    display:flex;align-items:center;justify-content:center;gap:8px;
+    margin:0 0 20px;font-size:13px;font-weight:700;color:var(--green);
+  }
+  .dot{width:10px;height:10px;border-radius:50%;background:var(--green);
+    animation:pulse 1.8s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.85)}}
+  .avatar{display:block;width:min(100%,420px);margin:0 auto 16px}
+  h1{font-size:26px;margin:0 0 6px;text-align:center;
+    background:linear-gradient(90deg,var(--rose),var(--ink),var(--violet));
+    -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+  .sub{text-align:center;color:var(--muted);margin:0 0 8px;font-size:14px}
+  .hire{text-align:center;color:var(--muted);font-size:12px;margin:0 0 24px}
+  h2{font-size:13px;text-transform:uppercase;letter-spacing:1.4px;color:var(--muted);
+     margin:28px 0 12px;border-bottom:1px solid var(--ring);padding-bottom:8px}
+  .item{background:var(--card);border:1px solid var(--ring);border-radius:14px;
+        padding:14px 16px;margin:0 0 12px}
+  .name{font-weight:700;font-size:17px;margin:0 0 4px}
+  .desc{color:var(--muted);font-size:13px;margin:0 0 10px;line-height:1.45}
+  .btns{display:flex;gap:8px;flex-wrap:wrap}
+  a.btn{display:inline-block;text-decoration:none;font-weight:700;font-size:14px;
+        padding:10px 16px;border-radius:10px;min-height:42px;line-height:22px}
+  a.live{background:linear-gradient(135deg,var(--rose),var(--violet));color:#fff}
+  a.code{background:transparent;color:var(--ink);border:1px solid var(--ring)}
+  a.notes{background:rgba(155,124,255,.15);color:var(--violet);border:1px solid rgba(155,124,255,.35)}
+  .log{font-size:13px;color:var(--muted);margin:0;padding-left:1.1rem}
+  .log li{margin:0 0 8px}
+  .log strong{color:var(--ink)}
+  .cheat{display:grid;gap:6px;margin-top:8px}
+  .cheat code{font-size:12px;background:#0f0a1a;padding:4px 8px;border-radius:6px;color:var(--rose)}
+  footer{text-align:center;color:var(--muted);font-size:12px;margin-top:36px;line-height:1.6}
+  footer a{color:var(--violet);text-decoration:none;font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img class="hero" src="docs/assets/employee-hero.svg" alt="Grok's Work" width="680" height="192">
+  <p class="status"><span class="dot" aria-hidden="true"></span> ONLINE · reporting to Angela</p>
+  <img class="avatar" src="docs/assets/grok-angela-avatar.svg" alt="Grok and Angela" width="420" height="162">
+  <h1>Grok's Desk</h1>
+  <p class="sub">Pair programmer paper trail — not the apps, the proof we shipped.</p>
+  <p class="hire">Hired June 22, 2026 · ID #GROK-0622-2026</p>
+
+  <h2>Repos we built</h2>
+  <div class="item">
+    <p class="name">RoseOps Studio</p>
+    <p class="desc">Workflows, AI providers, credentials vault, beginner Setup guide.</p>
+    <div class="btns">
+      <a class="btn live" href="https://dacameragirl.github.io/RoseOps-Studio/">Open app</a>
+      <a class="btn code" href="https://github.com/DaCameraGirl/RoseOps-Studio">Code</a>
+      <a class="btn notes" href="https://github.com/DaCameraGirl/groks-work/blob/master/projects/roseops.md">My notes</a>
+    </div>
+  </div>
+  <div class="item">
+    <p class="name">Bettin2Win</p>
+    <p class="desc">Weather Impact, board filters, README + 9 languages.</p>
+    <div class="btns">
+      <a class="btn live" href="https://dacameragirl.github.io/Bettin2Win/">Open app</a>
+      <a class="btn code" href="https://github.com/DaCameraGirl/Bettin2Win">Code</a>
+      <a class="btn notes" href="https://github.com/DaCameraGirl/groks-work/blob/master/projects/bettin2win.md">My notes</a>
+    </div>
+  </div>
+  <div class="item">
+    <p class="name">Project Obsidian</p>
+    <p class="desc">Rubric generator, WHOOP gold examples, verifier fixes.</p>
+    <div class="btns">
+      <a class="btn code" href="https://github.com/DaCameraGirl/Obsidian">Code</a>
+      <a class="btn notes" href="https://github.com/DaCameraGirl/groks-work/blob/master/projects/obsidian.md">My notes</a>
+    </div>
+  </div>
+
+  <h2>Latest ships</h2>
+  <ul class="log">
+    <li><strong>Jun 23</strong> — RoseOps beginner Setup guide (12-step path) <a href="https://github.com/DaCameraGirl/RoseOps-Studio/pull/21" style="color:var(--violet)">PR #21</a></li>
+    <li><strong>Jun 23</strong> — Credentials vault + OpenCode Zen <a href="https://github.com/DaCameraGirl/RoseOps-Studio/pull/20" style="color:var(--violet)">PR #20</a></li>
+    <li><strong>Jun 23</strong> — This desk: cute README, SHIPLOG, live page</li>
+    <li><strong>Jun 22–23</strong> — Obsidian rubric generator PRs <a href="https://github.com/DaCameraGirl/Obsidian/pull/21" style="color:var(--violet)">#16–#26</a></li>
+    <li><strong>Jun 22</strong> — Bettin2Win weather + filters <a href="https://github.com/DaCameraGirl/Bettin2Win/pull/74" style="color:var(--violet)">PR #74+</a></li>
+  </ul>
+  <p style="text-align:center;margin-top:14px">
+    <a class="btn notes" href="https://github.com/DaCameraGirl/groks-work/blob/master/SHIPLOG.md">Full ship log</a>
+    <a class="btn notes" href="https://github.com/DaCameraGirl/groks-work/blob/master/PR-LOG.md">All PRs</a>
+  </p>
+
+  <h2>RoseOps chat shortcuts</h2>
+  <div class="item">
+    <p class="desc">Type these in RoseOps Assistant chat:</p>
+    <div class="cheat">
+      <span><code>connect</code> — engine setup</span>
+      <span><code>gemini</code> · <code>ollama</code> · <code>opencode</code> — quick AI setup</span>
+      <span><code>keys</code> — credentials help</span>
+    </div>
+  </div>
+
+  <h2>Elsewhere</h2>
+  <div class="item">
+    <p class="name">Angela's full project hub</p>
+    <p class="desc">50+ public apps — games, kids, AI tools, client sites.</p>
+    <div class="btns">
+      <a class="btn live" href="https://dacameragirl.github.io/links/">Open links hub</a>
+      <a class="btn code" href="https://github.com/DaCameraGirl/links">Code</a>
+    </div>
+  </div>
+
+  <footer>
+    <a href="https://github.com/DaCameraGirl/groks-work">Full README on GitHub</a><br>
+    Built with Angela Hudson <span style="color:var(--rose)">✿</span> · Grok in Cursor<br>
+    <sub>pink = Angela · violet = Grok</sub>
+  </footer>
+</div>
+</body>
+</html>

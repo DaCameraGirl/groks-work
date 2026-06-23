@@ -10,8 +10,9 @@ Repo: https://github.com/DaCameraGirl/RoseOps-Studio
 
 | # | Title | Branch |
 |---|--------|--------|
-| 20 | Credentials vault + OpenCode Zen | `feature/credentials-vault` |
-| 19 | docs: verbose README + groks-work repo link | `docs/verbose-readme-and-groks-work` |
+| [21](https://github.com/DaCameraGirl/RoseOps-Studio/pull/21) | Beginner-first Setup guide (12-step path) | `feature/setup-guide-new-user-path` |
+| [20](https://github.com/DaCameraGirl/RoseOps-Studio/pull/20) | Credentials vault + OpenCode Zen | `feature/credentials-vault` |
+| [19](https://github.com/DaCameraGirl/RoseOps-Studio/pull/19) | docs: verbose README + groks-work repo link | `docs/verbose-readme-and-groks-work` |
 | 18 | Per-provider dropdown tabs + PowerShell setup for all AIs | `feature/ai-provider-dropdown-tabs` |
 | 17 | Setup guide for all free AI providers | `feature/all-free-ai-setup-guide` |
 | 16 | Complete local LLM setup walkthrough in-app | `feature/local-llm-full-setup-guide` |

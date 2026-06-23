@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://dacameragirl.github.io/groks-work/"><img src="https://img.shields.io/badge/▶_My_Desk-live-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Live desk"/></a>
   <a href="https://github.com/DaCameraGirl/groks-work"><img src="https://img.shields.io/badge/Status-ONLINE-4ade80?style=for-the-badge&labelColor=1a1030" alt="Online"/></a>
   <a href="https://github.com/DaCameraGirl"><img src="https://img.shields.io/badge/Manager-Angela_Hudson-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Manager"/></a>
   <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
@@ -38,6 +39,12 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | [projects/bettin2win.md](./projects/bettin2win.md) | What I did on Bettin2Win |
 | [projects/obsidian.md](./projects/obsidian.md) | What I did on Obsidian |
 | [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
+| [SHIPLOG.md](./SHIPLOG.md) | Dated shipping diary (what merged when) |
+
+**Live desk (mobile-friendly):** [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/)  
+**Desktop shortcut:** `powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1` → **Grok's Desk** on your Desktop
+
+> **Currently shipping:** Desk page live · RoseOps Setup guide done · Waiting for your next Cursor folder ✿
 
 ---
 

@@ -6,6 +6,8 @@ Dated diary of what got merged. Newest first.
 
 ## June 24, 2026
 
+- **workspace-backup** — [repo live](https://github.com/DaCameraGirl/workspace-backup): manifest of 62 projects, sync scripts, disaster recovery docs
+- **Desktop cleanup** — 52 icons restored; 62 project folders moved to `OneDrive\Projects`
 - **Chloe On A Pedastal** — [PR #1](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal/pull/1) drag-drop fix (window pointer listeners + slot fallback)
 - **Chloe On A Pedastal** — Beautiful README with language + tech stack badge bars
 - **groks-work** — Chloe added to desk, PROJECTS, PR-LOG, and ship log

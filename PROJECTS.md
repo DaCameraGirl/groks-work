@@ -7,6 +7,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | **RoseOps Studio** | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [Open app](https://dacameragirl.github.io/RoseOps-Studio/) · `localhost:3099` | [roseops.md](./projects/roseops.md) |
 | **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) | [bettin2win.md](./projects/bettin2win.md) |
 | **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` on Desktop | [obsidian.md](./projects/obsidian.md) |
+| **Chloe On A Pedastal** | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) | [chloe-puzzle.md](./projects/chloe-puzzle.md) |
 
 **This repo:** [groks-work](https://github.com/DaCameraGirl/groks-work) · **All public projects:** [links hub](https://dacameragirl.github.io/links/) · [links repo](https://github.com/DaCameraGirl/links)
 
@@ -17,6 +18,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | RoseOps Studio | [projects/roseops.md](./projects/roseops.md) |
 | Bettin2Win | [projects/bettin2win.md](./projects/bettin2win.md) |
 | Project Obsidian | [projects/obsidian.md](./projects/obsidian.md) |
+| Chloe On A Pedastal | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) |
 
 ---
 

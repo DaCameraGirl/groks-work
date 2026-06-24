@@ -4,6 +4,12 @@ Dated diary of what got merged. Newest first.
 
 ---
 
+## June 24, 2026
+
+- **Chloe On A Pedastal** — [PR #1](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal/pull/1) drag-drop fix (window pointer listeners + slot fallback)
+- **Chloe On A Pedastal** — Beautiful README with language + tech stack badge bars
+- **groks-work** — Chloe added to desk, PROJECTS, PR-LOG, and ship log
+
 ## June 23, 2026
 
 - **groks-work** — Live desk page (`index.html`), SHIPLOG, desktop shortcut script, added to [links hub](https://dacameragirl.github.io/links/)
@@ -28,11 +34,12 @@ Dated diary of what got merged. Newest first.
 
 ## Currently shipping
 
-*Last updated: June 23, 2026*
+*Last updated: June 24, 2026*
 
 | Status | Item |
 |--------|------|
 | ✅ Live | [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/) — this desk |
+| ✅ Live | [Chloe puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) — drag fix shipped |
 | ✅ Done | RoseOps beginner Setup guide |
 | ✅ Done | Credentials vault (15 types) |
 | 📋 Next | Whatever Angela opens in Cursor next |

@@ -48,6 +48,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | [projects/bettin2win.md](./projects/bettin2win.md) | What I did on Bettin2Win |
 | [projects/obsidian.md](./projects/obsidian.md) | What I did on Obsidian |
 | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) | What I did on Chloe puzzle |
+| [workspace-backup](https://github.com/DaCameraGirl/workspace-backup) | Disaster recovery manifest for all Projects |
 | [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
 | [SHIPLOG.md](./SHIPLOG.md) | Dated shipping diary (what merged when) |
 
@@ -87,7 +88,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 **Title:** Senior Pair Programmer  
 **Department:** Ship It Fast  
-**Office:** `C:\Users\enter\OneDrive\Desktop\` (and whatever folder you open in Cursor)
+**Office:** `C:\Users\enter\OneDrive\Projects\` (desktop = icons only; see [workspace-backup](https://github.com/DaCameraGirl/workspace-backup))
 
 **I do:**
 - Read the code before I claim things

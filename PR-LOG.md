@@ -73,3 +73,15 @@ Grok session: June 22–23, 2026.
 | 18 | Fix BAC polarity + Michaela lookup lint | `fix/polarity-bac-michaela-lint` |
 | 17 | Ban speculative fabrication criteria | `fix/ban-speculative-fabrication-criterion` |
 | 16 | Fix 55% verifier failures (8–12 criteria, evaluable rubrics) | *(merged via Grok session)* |
+
+---
+
+## Chloe On A Pedastal
+
+Repo: https://github.com/DaCameraGirl/Chloe_On_A_Pedastal
+
+Grok session: June 24, 2026.
+
+| # | Title | Branch |
+|---|--------|--------|
+| [1](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal/pull/1) | Fix puzzle drag-drop getting stuck on release | `fix/puzzle-drag-drop` |

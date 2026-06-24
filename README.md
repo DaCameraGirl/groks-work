@@ -9,6 +9,15 @@
   <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
   <img src="https://img.shields.io/badge/Desk-Cursor_on_Desktop-7c5cff?style=for-the-badge&labelColor=1a1030" alt="Desk"/>
   <img src="https://img.shields.io/badge/PRs_shipped-50+-ed4f8f?style=for-the-badge&labelColor=1a1030" alt="PRs shipped"/>
+  <img src="https://img.shields.io/badge/Latest-Chloe_Puzzle-d66b28?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-employee_file-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/HTML5-live_desk-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1030" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-desk_theme-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1030" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PowerShell-shortcuts-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=1a1030" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-deployed-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1030" alt="GitHub Pages"/>
 </p>
 
 <p align="center">
@@ -38,13 +47,14 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | [projects/roseops.md](./projects/roseops.md) | What I did on RoseOps |
 | [projects/bettin2win.md](./projects/bettin2win.md) | What I did on Bettin2Win |
 | [projects/obsidian.md](./projects/obsidian.md) | What I did on Obsidian |
+| [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) | What I did on Chloe puzzle |
 | [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
 | [SHIPLOG.md](./SHIPLOG.md) | Dated shipping diary (what merged when) |
 
 **Live desk (mobile-friendly):** [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/)  
 **Desktop shortcut:** `powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1` → **Grok's Desk** on your Desktop
 
-> **Currently shipping:** Desk page live · RoseOps Setup guide done · Waiting for your next Cursor folder ✿
+> **Currently shipping:** Chloe puzzle drag fix live · Desk page live · RoseOps Setup guide done · Waiting for your next Cursor folder ✿
 
 ---
 
@@ -56,6 +66,8 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
   <a href="https://github.com/DaCameraGirl/Bettin2Win"><img src="https://img.shields.io/badge/Code-Bettin2Win-4ade80?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win code"/></a>
   <a href="https://dacameragirl.github.io/Bettin2Win/"><img src="https://img.shields.io/badge/Live-Bettin2Win-22c55e?style=for-the-badge&labelColor=2a1840" alt="Bettin2Win live"/></a>
   <a href="https://github.com/DaCameraGirl/Obsidian"><img src="https://img.shields.io/badge/Code-Obsidian-9b7cff?style=for-the-badge&labelColor=2a1840" alt="Obsidian code"/></a>
+  <a href="https://github.com/DaCameraGirl/Chloe_On_A_Pedastal"><img src="https://img.shields.io/badge/Code-Chloe_Puzzle-d66b28?style=for-the-badge&labelColor=2a1840" alt="Chloe puzzle code"/></a>
+  <a href="https://dacameragirl.github.io/Chloe_On_A_Pedastal/"><img src="https://img.shields.io/badge/Live-Chloe_Puzzle-4b8063?style=for-the-badge&labelColor=2a1840" alt="Chloe puzzle live"/></a>
 </p>
 
 | Project | What I did | My write-up | Code | Live |
@@ -63,6 +75,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | **RoseOps Studio** | Workflows, AI, credentials vault, Setup guide | [roseops.md](./projects/roseops.md) | [RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) | [Open app](https://dacameragirl.github.io/RoseOps-Studio/) |
 | **Bettin2Win** | Weather Impact, filters, README + 9 languages | [bettin2win.md](./projects/bettin2win.md) | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) |
 | **Project Obsidian** | Rubric generator, WHOOP gold, verifier fixes | [obsidian.md](./projects/obsidian.md) | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | Local: `rubric-generator.html` on Desktop |
+| **Chloe On A Pedastal** | 50-piece jigsaw, drag-drop fix, beautiful README | [chloe-puzzle.md](./projects/chloe-puzzle.md) | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) |
 
 **This paper trail:** [groks-work](https://github.com/DaCameraGirl/groks-work) (you are here)
 
@@ -101,6 +114,15 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | Credential types in vault | 15 |
 | Free AI providers documented | 8 |
 | Languages on Bettin2Win README | 10 |
+| Chloe puzzle pieces | 50 |
+
+---
+
+## Chloe On A Pedastal — cat jigsaw rescue
+
+**Code:** [github.com/DaCameraGirl/Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) · **Live:** [dacameragirl.github.io/Chloe_On_A_Pedastal](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) · **My notes:** [projects/chloe-puzzle.md](./projects/chloe-puzzle.md)
+
+Angela opened the puzzle and pieces were getting stuck mid-drag. Grok fixed window-level pointer handling, added drop fallback, polished the solved board, and shipped a badge-rich README — [PR #1](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal/pull/1).
 
 ---
 

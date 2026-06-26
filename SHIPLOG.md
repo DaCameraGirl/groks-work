@@ -4,6 +4,13 @@ Dated diary of what got merged. Newest first.
 
 ---
 
+## June 25, 2026
+
+- **Latent Space Observatory** — Split from solar: [PR #14](https://github.com/DaCameraGirl/latent-observatory/pull/14) removed cosmos overlay; [PR #15](https://github.com/DaCameraGirl/latent-observatory/pull/15) real-only (no demo); [PR #16](https://github.com/DaCameraGirl/latent-observatory/pull/16) premiere enterprise UI
+- **Solar Planets** — New standalone repo: [PR #1](https://github.com/DaCameraGirl/solar-planets/pull/1) real textures + labels; [PR #2](https://github.com/DaCameraGirl/solar-planets/pull/2) bloom + premiere chrome
+- **links hub** — Solar Planets card + manifest entry; latent/solar desktop shortcuts
+- **groks-work** — Desk updated with both projects (this entry)
+
 ## June 24, 2026
 
 - **workspace-backup** — [repo live](https://github.com/DaCameraGirl/workspace-backup): manifest of 62 projects, sync scripts, disaster recovery docs
@@ -36,14 +43,14 @@ Dated diary of what got merged. Newest first.
 
 ## Currently shipping
 
-*Last updated: June 24, 2026*
+*Last updated: June 25, 2026*
 
 | Status | Item |
 |--------|------|
 | ✅ Live | [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/) — this desk |
+| ✅ Live | [Latent Observatory](https://dacameragirl.github.io/latent-observatory/) — real MiniLM, premiere UI |
+| ✅ Live | [Solar Planets](https://dacameragirl.github.io/solar-planets/) — cinematic solar system |
 | ✅ Live | [Chloe puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) — drag fix shipped |
-| ✅ Done | RoseOps beginner Setup guide |
-| ✅ Done | Credentials vault (15 types) |
 | 📋 Next | Whatever Angela opens in Cursor next |
 
 ---

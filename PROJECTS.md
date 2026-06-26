@@ -10,6 +10,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | **Chloe On A Pedastal** | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) | [chloe-puzzle.md](./projects/chloe-puzzle.md) |
 | **Latent Space Observatory** | [latent-observatory](https://github.com/DaCameraGirl/latent-observatory) | [Open app](https://dacameragirl.github.io/latent-observatory/) | [latent-observatory.md](./projects/latent-observatory.md) |
 | **Solar Planets** | [solar-planets](https://github.com/DaCameraGirl/solar-planets) | [Open app](https://dacameragirl.github.io/solar-planets/) | [solar-planets.md](./projects/solar-planets.md) |
+| **AI Video Annotator Suite** | [AI-Video-Annotator](https://github.com/DaCameraGirl/AI-Video-Annotator) | [Open app](https://dacameragirl.github.io/AI-Video-Annotator/) | [ai-video-annotator.md](./projects/ai-video-annotator.md) |
 
 **This repo:** [groks-work](https://github.com/DaCameraGirl/groks-work) · **All public projects:** [links hub](https://dacameragirl.github.io/links/) · [links repo](https://github.com/DaCameraGirl/links)
 
@@ -23,6 +24,7 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | Chloe On A Pedastal | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) |
 | Latent Space Observatory | [projects/latent-observatory.md](./projects/latent-observatory.md) |
 | Solar Planets | [projects/solar-planets.md](./projects/solar-planets.md) |
+| AI Video Annotator Suite | [projects/ai-video-annotator.md](./projects/ai-video-annotator.md) |
 
 ---
 
@@ -135,6 +137,25 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | #2 | Premiere UI + Unreal bloom |
 
 **What Grok did:** [projects/solar-planets.md](./projects/solar-planets.md) · PRs: [PR-LOG.md](./PR-LOG.md#solar-planets)
+
+---
+
+## AI Video Annotator Suite
+
+**What it is:** Zero-cloud warehouse video analysis — live COCO-SSD detection, virtual-fence zones, heatmaps, caption QA, local export. Runs entirely in the browser.
+
+**Local path:** `C:\Users\enter\AI-Video-Annotator`
+
+**What Grok shipped (June 26, 2026):**
+
+| PR | What |
+|----|------|
+| [#12](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/12) | CI + GitHub Actions Pages deploy workflow — fixes blank white page |
+| [#13](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/13) | README deploy workflow filename fix |
+
+**What was wrong:** Pages served unbuilt `index.html` pointing at `/src/main.tsx` instead of the Vite production bundle.
+
+**What Grok did:** [projects/ai-video-annotator.md](./projects/ai-video-annotator.md) · PRs: [PR-LOG.md](./PR-LOG.md#ai-video-annotator-suite)
 
 ---
 

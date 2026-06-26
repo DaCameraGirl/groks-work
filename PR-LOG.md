@@ -117,3 +117,17 @@ Grok session: June 25, 2026 (new repo).
 | [3](https://github.com/DaCameraGirl/solar-planets/pull/3) | Bundle textures same-origin (fix WebGL CORS) | `fix/bundle-textures-same-origin` |
 | [2](https://github.com/DaCameraGirl/solar-planets/pull/2) | Premiere enterprise UI with bloom and cinematic polish | `feat/premiere-enterprise-ui` |
 | [1](https://github.com/DaCameraGirl/solar-planets/pull/1) | Real planet textures, labels, and loading screen | `feat/real-textures-labels` |
+
+---
+
+## AI Video Annotator Suite
+
+Repo: https://github.com/DaCameraGirl/AI-Video-Annotator
+
+Grok session: June 26, 2026.
+
+| # | Title | Branch |
+|---|--------|--------|
+| [13](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/13) | docs: fix README deploy workflow filename | `docs/fix-readme-deploy-workflow-name` |
+| [12](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/12) | fix: deploy built app to GitHub Pages | `fix/github-pages-deploy` |
+| [2](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/2) | feat: working enterprise warehouse video Suite | `feat/enterprise-suite` |

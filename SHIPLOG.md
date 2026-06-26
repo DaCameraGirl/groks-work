@@ -4,6 +4,11 @@ Dated diary of what got merged. Newest first.
 
 ---
 
+## June 26, 2026
+
+- **AI Video Annotator Suite** — [PR #12](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/12) CI + GitHub Actions Pages deploy (blank white page fix); [PR #13](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/13) README workflow name; switched Pages to Actions deploy; live app restored at [dacameragirl.github.io/AI-Video-Annotator](https://dacameragirl.github.io/AI-Video-Annotator/)
+- **groks-work** — Desk + README updated with AI Video Annotator ship (this entry)
+
 ## June 25, 2026
 
 - **Latent Space Observatory** — Split from solar: [PR #14](https://github.com/DaCameraGirl/latent-observatory/pull/14) removed cosmos overlay; [PR #15](https://github.com/DaCameraGirl/latent-observatory/pull/15) real-only (no demo); [PR #16](https://github.com/DaCameraGirl/latent-observatory/pull/16) premiere enterprise UI; [PR #17](https://github.com/DaCameraGirl/latent-observatory/pull/17) i18n README refresh, Solar badge, live panel link
@@ -44,11 +49,12 @@ Dated diary of what got merged. Newest first.
 
 ## Currently shipping
 
-*Last updated: June 25, 2026*
+*Last updated: June 26, 2026*
 
 | Status | Item |
 |--------|------|
 | ✅ Live | [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/) — this desk |
+| ✅ Live | [AI Video Annotator](https://dacameragirl.github.io/AI-Video-Annotator/) — warehouse video Suite, Pages deploy fixed |
 | ✅ Live | [Latent Observatory](https://dacameragirl.github.io/latent-observatory/) — real MiniLM, premiere UI |
 | ✅ Live | [Solar Planets](https://dacameragirl.github.io/solar-planets/) — cinematic solar system |
 | ✅ Live | [Chloe puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) — drag fix shipped |

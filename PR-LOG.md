@@ -85,3 +85,32 @@ Grok session: June 24, 2026.
 | # | Title | Branch |
 |---|--------|--------|
 | [1](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal/pull/1) | Fix puzzle drag-drop getting stuck on release | `fix/puzzle-drag-drop` |
+
+---
+
+## Latent Space Observatory
+
+Repo: https://github.com/DaCameraGirl/latent-observatory
+
+Grok session: June 25, 2026.
+
+| # | Title | Branch |
+|---|--------|--------|
+| [16](https://github.com/DaCameraGirl/latent-observatory/pull/16) | Premiere enterprise UI and cinematic scene polish | `feat/premiere-enterprise-ui` |
+| [15](https://github.com/DaCameraGirl/latent-observatory/pull/15) | Remove synthetic demo; real embeddings only | `fix/real-only-no-demo` |
+| [14](https://github.com/DaCameraGirl/latent-observatory/pull/14) | Remove solar overlay; restore embedding-first observatory | `fix/real-embeddings-no-solar` |
+| 13 | Solar system cosmos layer (later removed by #14) | `feat/solar-system-cosmos` |
+| 11–12 | Demo restore, i18n README assets | various |
+
+---
+
+## Solar Planets
+
+Repo: https://github.com/DaCameraGirl/solar-planets
+
+Grok session: June 25, 2026 (new repo).
+
+| # | Title | Branch |
+|---|--------|--------|
+| [2](https://github.com/DaCameraGirl/solar-planets/pull/2) | Premiere enterprise UI with bloom and cinematic polish | `feat/premiere-enterprise-ui` |
+| [1](https://github.com/DaCameraGirl/solar-planets/pull/1) | Real planet textures, labels, and loading screen | `feat/real-textures-labels` |

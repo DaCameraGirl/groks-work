@@ -8,6 +8,8 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | **Bettin2Win** | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) | [bettin2win.md](./projects/bettin2win.md) |
 | **Project Obsidian** | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | `rubric-generator.html` on Desktop | [obsidian.md](./projects/obsidian.md) |
 | **Chloe On A Pedastal** | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) | [chloe-puzzle.md](./projects/chloe-puzzle.md) |
+| **Latent Space Observatory** | [latent-observatory](https://github.com/DaCameraGirl/latent-observatory) | [Open app](https://dacameragirl.github.io/latent-observatory/) | [latent-observatory.md](./projects/latent-observatory.md) |
+| **Solar Planets** | [solar-planets](https://github.com/DaCameraGirl/solar-planets) | [Open app](https://dacameragirl.github.io/solar-planets/) | [solar-planets.md](./projects/solar-planets.md) |
 
 **This repo:** [groks-work](https://github.com/DaCameraGirl/groks-work) · **All public projects:** [links hub](https://dacameragirl.github.io/links/) · [links repo](https://github.com/DaCameraGirl/links)
 
@@ -19,6 +21,8 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 | Bettin2Win | [projects/bettin2win.md](./projects/bettin2win.md) |
 | Project Obsidian | [projects/obsidian.md](./projects/obsidian.md) |
 | Chloe On A Pedastal | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) |
+| Latent Space Observatory | [projects/latent-observatory.md](./projects/latent-observatory.md) |
+| Solar Planets | [projects/solar-planets.md](./projects/solar-planets.md) |
 
 ---
 
@@ -95,6 +99,42 @@ Master index of everything Grok helped build, PR, and merge with Angela (DaCamer
 **Key lesson locked in:** 83% is an accepted pass for incomplete WHOOP trajectories (calendar down, CSV only). Gold template: `examples/whoop-calendar-sheets-83pct.md`.
 
 **What Grok did:** [projects/obsidian.md](./projects/obsidian.md) · PRs: [PR-LOG.md](./PR-LOG.md#project-obsidian)
+
+---
+
+## Latent Space Observatory
+
+**What it is:** Real 3D embedding visualization — live MiniLM atlas, your words, CSV upload. vtk.js observatory for AI research. **No synthetic demo.**
+
+**Local path:** `C:\Users\enter\latent-observatory`
+
+**What Grok shipped (June 25, 2026):**
+
+| PR | What |
+|----|------|
+| #14 | Strip solar overlay from observatory; cross-link Solar Planets |
+| #15 | Real-only boot — delete demo field generator |
+| #16 | Premiere enterprise UI (Syne, glass chrome, starfield, loading curtain) |
+
+**What Grok did:** [projects/latent-observatory.md](./projects/latent-observatory.md) · PRs: [PR-LOG.md](./PR-LOG.md#latent-space-observatory)
+
+---
+
+## Solar Planets
+
+**What it is:** Standalone cinematic solar system — real textures, bloom, theatrical orbit. Split from Latent Observatory.
+
+**Local path:** `C:\Users\enter\solar-planets`
+
+**What Grok shipped (June 25, 2026):**
+
+| PR | What |
+|----|------|
+| — | New repo + GitHub Pages |
+| #1 | Real 2K textures, labels, loading |
+| #2 | Premiere UI + Unreal bloom |
+
+**What Grok did:** [projects/solar-planets.md](./projects/solar-planets.md) · PRs: [PR-LOG.md](./PR-LOG.md#solar-planets)
 
 ---
 

@@ -96,6 +96,7 @@ Grok session: June 25, 2026.
 
 | # | Title | Branch |
 |---|--------|--------|
+| [17](https://github.com/DaCameraGirl/latent-observatory/pull/17) | i18n README refresh, Solar badge, live panel link | `docs/live-panel-readme-refresh` |
 | [16](https://github.com/DaCameraGirl/latent-observatory/pull/16) | Premiere enterprise UI and cinematic scene polish | `feat/premiere-enterprise-ui` |
 | [15](https://github.com/DaCameraGirl/latent-observatory/pull/15) | Remove synthetic demo; real embeddings only | `fix/real-only-no-demo` |
 | [14](https://github.com/DaCameraGirl/latent-observatory/pull/14) | Remove solar overlay; restore embedding-first observatory | `fix/real-embeddings-no-solar` |
@@ -112,5 +113,7 @@ Grok session: June 25, 2026 (new repo).
 
 | # | Title | Branch |
 |---|--------|--------|
+| [4](https://github.com/DaCameraGirl/solar-planets/pull/4) | Angela-style READMEs, 10-lang bar, live panel link | `docs/i18n-readme-live-panel` |
+| [3](https://github.com/DaCameraGirl/solar-planets/pull/3) | Bundle textures same-origin (fix WebGL CORS) | `fix/bundle-textures-same-origin` |
 | [2](https://github.com/DaCameraGirl/solar-planets/pull/2) | Premiere enterprise UI with bloom and cinematic polish | `feat/premiere-enterprise-ui` |
 | [1](https://github.com/DaCameraGirl/solar-planets/pull/1) | Real planet textures, labels, and loading screen | `feat/real-textures-labels` |

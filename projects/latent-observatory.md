@@ -22,6 +22,7 @@ Angela wanted it **real only** — no synthetic demo, no fake planets on the dot
 | [#14](https://github.com/DaCameraGirl/latent-observatory/pull/14) | Removed `cosmos.js` solar overlay; embedding-first defaults; link to Solar Planets in About |
 | [#15](https://github.com/DaCameraGirl/latent-observatory/pull/15) | Deleted `latent.js` demo field; boots straight into live MiniLM concept atlas |
 | [#16](https://github.com/DaCameraGirl/latent-observatory/pull/16) | Premiere enterprise UI — Syne/IBM Plex, gold-cyan glass, vignette, starfield, theatrical loading |
+| [#17](https://github.com/DaCameraGirl/latent-observatory/pull/17) | Stale demo copy removed from i18n SVGs; Solar Planets badge; shimmering GitHub Pages link in settings panel |
 
 **Also this session (earlier PRs on repo):** restore demo/orbit (#11), i18n README assets (#12), solar layer (#13 — later reversed by #14).
 

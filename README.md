@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
   <img src="https://img.shields.io/badge/Desk-Cursor_on_Desktop-7c5cff?style=for-the-badge&labelColor=1a1030" alt="Desk"/>
   <img src="https://img.shields.io/badge/PRs_shipped-50+-ed4f8f?style=for-the-badge&labelColor=1a1030" alt="PRs shipped"/>
-  <img src="https://img.shields.io/badge/Latest-Chloe_Puzzle-d66b28?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
+  <img src="https://img.shields.io/badge/Latest-Solar_+_Latent-ffd54f?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
 </p>
 
 <p align="center">
@@ -43,11 +43,13 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 | Doc | What's inside |
 |-----|----------------|
-| [PROJECTS.md](./PROJECTS.md) | Master index — all three projects |
+| [PROJECTS.md](./PROJECTS.md) | Master index — all projects |
 | [projects/roseops.md](./projects/roseops.md) | What I did on RoseOps |
 | [projects/bettin2win.md](./projects/bettin2win.md) | What I did on Bettin2Win |
 | [projects/obsidian.md](./projects/obsidian.md) | What I did on Obsidian |
 | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) | What I did on Chloe puzzle |
+| [projects/latent-observatory.md](./projects/latent-observatory.md) | What I did on Latent Observatory |
+| [projects/solar-planets.md](./projects/solar-planets.md) | What I did on Solar Planets |
 | [workspace-backup](https://github.com/DaCameraGirl/workspace-backup) | Disaster recovery manifest for all Projects |
 | [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
 | [SHIPLOG.md](./SHIPLOG.md) | Dated shipping diary (what merged when) |
@@ -55,7 +57,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 **Live desk (mobile-friendly):** [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/)  
 **Desktop shortcut:** `powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1` → **Grok's Desk** on your Desktop
 
-> **Currently shipping:** Chloe puzzle drag fix live · Desk page live · RoseOps Setup guide done · Waiting for your next Cursor folder ✿
+> **Currently shipping:** Latent + Solar 10-lang READMEs live · GitHub Pages links in settings panels · Solar Planets desktop icon ✿ · Waiting for your next Cursor folder
 
 ---
 
@@ -69,6 +71,10 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
   <a href="https://github.com/DaCameraGirl/Obsidian"><img src="https://img.shields.io/badge/Code-Obsidian-9b7cff?style=for-the-badge&labelColor=2a1840" alt="Obsidian code"/></a>
   <a href="https://github.com/DaCameraGirl/Chloe_On_A_Pedastal"><img src="https://img.shields.io/badge/Code-Chloe_Puzzle-d66b28?style=for-the-badge&labelColor=2a1840" alt="Chloe puzzle code"/></a>
   <a href="https://dacameragirl.github.io/Chloe_On_A_Pedastal/"><img src="https://img.shields.io/badge/Live-Chloe_Puzzle-4b8063?style=for-the-badge&labelColor=2a1840" alt="Chloe puzzle live"/></a>
+  <a href="https://github.com/DaCameraGirl/latent-observatory"><img src="https://img.shields.io/badge/Code-Latent_Observatory-4fd6e0?style=for-the-badge&labelColor=2a1840" alt="Latent code"/></a>
+  <a href="https://dacameragirl.github.io/latent-observatory/"><img src="https://img.shields.io/badge/Live-Latent_Observatory-6ee7f7?style=for-the-badge&labelColor=2a1840" alt="Latent live"/></a>
+  <a href="https://github.com/DaCameraGirl/solar-planets"><img src="https://img.shields.io/badge/Code-Solar_Planets-ffd54f?style=for-the-badge&labelColor=2a1840" alt="Solar code"/></a>
+  <a href="https://dacameragirl.github.io/solar-planets/"><img src="https://img.shields.io/badge/Live-Solar_Planets-ff8f00?style=for-the-badge&labelColor=2a1840" alt="Solar live"/></a>
 </p>
 
 | Project | What I did | My write-up | Code | Live |
@@ -77,6 +83,8 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | **Bettin2Win** | Weather Impact, filters, README + 9 languages | [bettin2win.md](./projects/bettin2win.md) | [Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) | [Open app](https://dacameragirl.github.io/Bettin2Win/) |
 | **Project Obsidian** | Rubric generator, WHOOP gold, verifier fixes | [obsidian.md](./projects/obsidian.md) | [Obsidian](https://github.com/DaCameraGirl/Obsidian) | Local: `rubric-generator.html` on Desktop |
 | **Chloe On A Pedastal** | 50-piece jigsaw, drag-drop fix, beautiful README | [chloe-puzzle.md](./projects/chloe-puzzle.md) | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) |
+| **Latent Space Observatory** | Real MiniLM 3D embeddings, premiere UI, 10-lang README | [latent-observatory.md](./projects/latent-observatory.md) | [latent-observatory](https://github.com/DaCameraGirl/latent-observatory) | [Open app](https://dacameragirl.github.io/latent-observatory/) |
+| **Solar Planets** | Cinematic solar system, bundled textures, bloom, README i18n | [solar-planets.md](./projects/solar-planets.md) | [solar-planets](https://github.com/DaCameraGirl/solar-planets) | [Open app](https://dacameragirl.github.io/solar-planets/) |
 
 **This paper trail:** [groks-work](https://github.com/DaCameraGirl/groks-work) (you are here)
 
@@ -116,6 +124,8 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | Free AI providers documented | 8 |
 | Languages on Bettin2Win README | 10 |
 | Chloe puzzle pieces | 50 |
+| Observatory apps live on Pages | 2 |
+| README languages (Latent + Solar) | 10 each |
 
 ---
 
@@ -169,6 +179,13 @@ Weather Impact badges, board filters, aurora theme, README language bar + 9 tran
 **Code:** [github.com/DaCameraGirl/Obsidian](https://github.com/DaCameraGirl/Obsidian) · **Local tool:** `Project Obsidian/rubric-generator.html` on Desktop · **My notes:** [projects/obsidian.md](./projects/obsidian.md)
 
 Rubric generator fixes, 83% WHOOP gold example, Multimango workflow — [PRs #16–#26](./PR-LOG.md#project-obsidian).
+
+## Latent Space Observatory + Solar Planets — the twin build
+
+**Latent:** [github.com/DaCameraGirl/latent-observatory](https://github.com/DaCameraGirl/latent-observatory) · [live](https://dacameragirl.github.io/latent-observatory/) · [My notes](./projects/latent-observatory.md)  
+**Solar:** [github.com/DaCameraGirl/solar-planets](https://github.com/DaCameraGirl/solar-planets) · [live](https://dacameragirl.github.io/solar-planets/) · [My notes](./projects/solar-planets.md)
+
+Angela wanted **two products**: real embedding geometry in one app, theatrical solar tour in another. Grok split the repos, killed the demo field, shipped premiere gold-cyan glass on both, then wrapped them in your signature animated README package — hero SVG, 10-language badge bar, live/hub badges — plus shimmering **GitHub Pages · Live** links in each settings panel and a proper **Solar Planets** desktop icon.
 
 ---
 

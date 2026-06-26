@@ -6,10 +6,11 @@ Dated diary of what got merged. Newest first.
 
 ## June 25, 2026
 
-- **Latent Space Observatory** — Split from solar: [PR #14](https://github.com/DaCameraGirl/latent-observatory/pull/14) removed cosmos overlay; [PR #15](https://github.com/DaCameraGirl/latent-observatory/pull/15) real-only (no demo); [PR #16](https://github.com/DaCameraGirl/latent-observatory/pull/16) premiere enterprise UI
-- **Solar Planets** — New standalone repo: [PR #1](https://github.com/DaCameraGirl/solar-planets/pull/1) real textures + labels; [PR #2](https://github.com/DaCameraGirl/solar-planets/pull/2) bloom + premiere chrome
+- **Latent Space Observatory** — Split from solar: [PR #14](https://github.com/DaCameraGirl/latent-observatory/pull/14) removed cosmos overlay; [PR #15](https://github.com/DaCameraGirl/latent-observatory/pull/15) real-only (no demo); [PR #16](https://github.com/DaCameraGirl/latent-observatory/pull/16) premiere enterprise UI; [PR #17](https://github.com/DaCameraGirl/latent-observatory/pull/17) i18n README refresh, Solar badge, live panel link
+- **Solar Planets** — New standalone repo: [PR #1](https://github.com/DaCameraGirl/solar-planets/pull/1) real textures + labels; [PR #2](https://github.com/DaCameraGirl/solar-planets/pull/2) bloom + premiere chrome; [PR #3](https://github.com/DaCameraGirl/solar-planets/pull/3) bundled same-origin textures (CORS fix); [PR #4](https://github.com/DaCameraGirl/solar-planets/pull/4) Angela-style 10-lang READMEs + live panel link
+- **Desktop** — `Solar Planets.url` with custom gold-sun icon (`GameIcons/solar-planets.ico`)
 - **links hub** — Solar Planets card + manifest entry; latent/solar desktop shortcuts
-- **groks-work** — Desk updated with both projects (this entry)
+- **groks-work** — Desk + README updated with Observatory twin build (this entry)
 
 ## June 24, 2026
 

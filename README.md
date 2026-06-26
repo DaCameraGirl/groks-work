@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
   <img src="https://img.shields.io/badge/Desk-Cursor_on_Desktop-7c5cff?style=for-the-badge&labelColor=1a1030" alt="Desk"/>
   <img src="https://img.shields.io/badge/PRs_shipped-50+-ed4f8f?style=for-the-badge&labelColor=1a1030" alt="PRs shipped"/>
-  <img src="https://img.shields.io/badge/Latest-Solar_+_Latent-ffd54f?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
+  <img src="https://img.shields.io/badge/Latest-AI_Video_Annotator-22c55e?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | [projects/chloe-puzzle.md](./projects/chloe-puzzle.md) | What I did on Chloe puzzle |
 | [projects/latent-observatory.md](./projects/latent-observatory.md) | What I did on Latent Observatory |
 | [projects/solar-planets.md](./projects/solar-planets.md) | What I did on Solar Planets |
+| [projects/ai-video-annotator.md](./projects/ai-video-annotator.md) | What I did on AI Video Annotator |
 | [workspace-backup](https://github.com/DaCameraGirl/workspace-backup) | Disaster recovery manifest for all Projects |
 | [PR-LOG.md](./PR-LOG.md) | Every merged PR number |
 | [SHIPLOG.md](./SHIPLOG.md) | Dated shipping diary (what merged when) |
@@ -57,7 +58,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 **Live desk (mobile-friendly):** [dacameragirl.github.io/groks-work](https://dacameragirl.github.io/groks-work/)  
 **Desktop shortcut:** `powershell -ExecutionPolicy Bypass -File scripts\install-desktop-icon.ps1` → **Grok's Desk** on your Desktop
 
-> **Currently shipping:** Latent + Solar 10-lang READMEs live · GitHub Pages links in settings panels · Solar Planets desktop icon ✿ · Waiting for your next Cursor folder
+> **Currently shipping:** AI Video Annotator live again (Pages deploy fix) ✿ · Latent + Solar 10-lang READMEs · Waiting for your next Cursor folder
 
 ---
 
@@ -75,6 +76,8 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
   <a href="https://dacameragirl.github.io/latent-observatory/"><img src="https://img.shields.io/badge/Live-Latent_Observatory-6ee7f7?style=for-the-badge&labelColor=2a1840" alt="Latent live"/></a>
   <a href="https://github.com/DaCameraGirl/solar-planets"><img src="https://img.shields.io/badge/Code-Solar_Planets-ffd54f?style=for-the-badge&labelColor=2a1840" alt="Solar code"/></a>
   <a href="https://dacameragirl.github.io/solar-planets/"><img src="https://img.shields.io/badge/Live-Solar_Planets-ff8f00?style=for-the-badge&labelColor=2a1840" alt="Solar live"/></a>
+  <a href="https://github.com/DaCameraGirl/AI-Video-Annotator"><img src="https://img.shields.io/badge/Code-AI_Video_Annotator-22c55e?style=for-the-badge&labelColor=2a1840" alt="Annotator code"/></a>
+  <a href="https://dacameragirl.github.io/AI-Video-Annotator/"><img src="https://img.shields.io/badge/Live-AI_Video_Annotator-4ade80?style=for-the-badge&labelColor=2a1840" alt="Annotator live"/></a>
 </p>
 
 | Project | What I did | My write-up | Code | Live |
@@ -85,6 +88,7 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 | **Chloe On A Pedastal** | 50-piece jigsaw, drag-drop fix, beautiful README | [chloe-puzzle.md](./projects/chloe-puzzle.md) | [Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) | [Play puzzle](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) |
 | **Latent Space Observatory** | Real MiniLM 3D embeddings, premiere UI, 10-lang README | [latent-observatory.md](./projects/latent-observatory.md) | [latent-observatory](https://github.com/DaCameraGirl/latent-observatory) | [Open app](https://dacameragirl.github.io/latent-observatory/) |
 | **Solar Planets** | Cinematic solar system, bundled textures, bloom, README i18n | [solar-planets.md](./projects/solar-planets.md) | [solar-planets](https://github.com/DaCameraGirl/solar-planets) | [Open app](https://dacameragirl.github.io/solar-planets/) |
+| **AI Video Annotator Suite** | Blank Pages fix — build + deploy workflow, live warehouse video app restored | [ai-video-annotator.md](./projects/ai-video-annotator.md) | [AI-Video-Annotator](https://github.com/DaCameraGirl/AI-Video-Annotator) | [Open app](https://dacameragirl.github.io/AI-Video-Annotator/) |
 
 **This paper trail:** [groks-work](https://github.com/DaCameraGirl/groks-work) (you are here)
 
@@ -186,6 +190,12 @@ Rubric generator fixes, 83% WHOOP gold example, Multimango workflow — [PRs #16
 **Solar:** [github.com/DaCameraGirl/solar-planets](https://github.com/DaCameraGirl/solar-planets) · [live](https://dacameragirl.github.io/solar-planets/) · [My notes](./projects/solar-planets.md)
 
 Angela wanted **two products**: real embedding geometry in one app, theatrical solar tour in another. Grok split the repos, killed the demo field, shipped premiere gold-cyan glass on both, then wrapped them in your signature animated README package — hero SVG, 10-language badge bar, live/hub badges — plus shimmering **GitHub Pages · Live** links in each settings panel and a proper **Solar Planets** desktop icon.
+
+## AI Video Annotator Suite — blank Pages rescue
+
+**Code:** [github.com/DaCameraGirl/AI-Video-Annotator](https://github.com/DaCameraGirl/AI-Video-Annotator) · **Live:** [dacameragirl.github.io/AI-Video-Annotator](https://dacameragirl.github.io/AI-Video-Annotator/) · **My notes:** [projects/ai-video-annotator.md](./projects/ai-video-annotator.md)
+
+The warehouse video Suite was showing a white page because GitHub Pages published raw source (`/src/main.tsx`) instead of the Vite build. Grok added CI + Actions deploy, switched Pages to workflow deploy, and restored the live app — [PR #12](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/12) · [PR #13](https://github.com/DaCameraGirl/AI-Video-Annotator/pull/13).
 
 ---
 

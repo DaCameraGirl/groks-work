@@ -1,25 +1,37 @@
 <p align="center">
-  <img src="docs/assets/employee-hero.svg" alt="Grok's Work — new hire paper trail" width="100%"/>
+  <img src="docs/readme-banner.svg" alt="Grok's Work — Session log of Grok + Angela — RoseOps, Bettin2Win, Obsidian, Latent Observatory, Solar Planets." width="720" />
 </p>
 
 <p align="center">
-  <a href="https://dacameragirl.github.io/groks-work/"><img src="https://img.shields.io/badge/▶_My_Desk-live-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Live desk"/></a>
-  <a href="https://github.com/DaCameraGirl/groks-work"><img src="https://img.shields.io/badge/Status-ONLINE-4ade80?style=for-the-badge&labelColor=1a1030" alt="Online"/></a>
-  <a href="https://github.com/DaCameraGirl"><img src="https://img.shields.io/badge/Manager-Angela_Hudson-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Manager"/></a>
-  <img src="https://img.shields.io/badge/Hired-June_22,_2026-9b7cff?style=for-the-badge&labelColor=1a1030" alt="Hire date"/>
-  <img src="https://img.shields.io/badge/Desk-Cursor_on_Desktop-7c5cff?style=for-the-badge&labelColor=1a1030" alt="Desk"/>
-  <img src="https://img.shields.io/badge/PRs_shipped-50+-ed4f8f?style=for-the-badge&labelColor=1a1030" alt="PRs shipped"/>
-  <img src="https://img.shields.io/badge/Latest-AI_Video_Annotator-22c55e?style=for-the-badge&labelColor=1a1030" alt="Latest ship"/>
+  <strong>Session log of Grok + Angela — RoseOps, Bettin2Win, Obsidian, Latent Observatory, Solar Planets.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Markdown-employee_file-ff6eb4?style=for-the-badge&labelColor=1a1030" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/HTML5-live_desk-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1030" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-desk_theme-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1030" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/PowerShell-shortcuts-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=1a1030" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-deployed-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1030" alt="GitHub Pages"/>
+  <a href="https://github.com/DaCameraGirl/groks-work"><img src="https://img.shields.io/badge/Code-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/type-dev diary-bc8cff?style=flat-square" alt="type-dev diary" />
+  <img src="https://img.shields.io/badge/author-Angela Hudson-58a6ff?style=flat-square" alt="author-Angela Hudson" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-52%25-5391FE?style=flat-square&logo=github&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/HTML-48%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Grok-sessions-bc8cff?style=flat-square" alt="Grok-sessions" />
+  <img src="https://img.shields.io/badge/RoseOps-archive-e8739a?style=flat-square" alt="RoseOps-archive" />
+</p>
+
+<p align="center">
+  Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
+</p>
 <p align="center">
   <img src="docs/assets/grok-angela-avatar.svg" alt="Grok and Angela pair programming" width="520"/>
 </p>
@@ -35,7 +47,9 @@
   <img src="docs/assets/employee-id.svg" alt="Grok employee badge" width="640"/>
 </p>
 
-## Hi Angela — your new hire reporting in
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Hi%20Angela%20%E2%80%94%20your%20new%20hire%20reporting%20in&fontSize=22&fontColor=e6edf3" width="720" alt="Hi Angela — your new hire reporting in" /></p>
+
 
 I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You approve the direction in chat; I do the git mechanics (branches, PRs, merges, deploy) so you never stare at a merge button wondering what broke.
 
@@ -62,7 +76,9 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ---
 
-## Repos we built together (tap to open)
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Repos%20we%20built%20together%20(tap%20to%20open)&fontSize=22&fontColor=e6edf3" width="720" alt="Repos we built together (tap to open)" /></p>
+
 
 <p align="center">
   <a href="https://github.com/DaCameraGirl/RoseOps-Studio"><img src="https://img.shields.io/badge/Code-RoseOps_Studio-ed4f8f?style=for-the-badge&labelColor=2a1840" alt="RoseOps code"/></a>
@@ -96,7 +112,9 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ---
 
-## Job description (plain English)
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Job%20description%20(plain%20English)&fontSize=22&fontColor=e6edf3" width="720" alt="Job description (plain English)" /></p>
+
 
 **Title:** Senior Pair Programmer  
 **Department:** Ship It Fast  
@@ -117,7 +135,9 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ---
 
-## Performance review (by the numbers)
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Performance%20review%20(by%20the%20numbers)&fontSize=22&fontColor=e6edf3" width="720" alt="Performance review (by the numbers)" /></p>
+
 
 | Metric | Count |
 |--------|------:|
@@ -133,7 +153,9 @@ I'm **Grok**, your pair programmer in Cursor. You met me **June 22, 2026**. You 
 
 ---
 
-## Chloe On A Pedastal — cat jigsaw rescue
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Chloe%20On%20A%20Pedastal%20%E2%80%94%20cat%20jigsaw%20rescue&fontSize=22&fontColor=e6edf3" width="720" alt="Chloe On A Pedastal — cat jigsaw rescue" /></p>
+
 
 **Code:** [github.com/DaCameraGirl/Chloe_On_A_Pedastal](https://github.com/DaCameraGirl/Chloe_On_A_Pedastal) · **Live:** [dacameragirl.github.io/Chloe_On_A_Pedastal](https://dacameragirl.github.io/Chloe_On_A_Pedastal/) · **My notes:** [projects/chloe-puzzle.md](./projects/chloe-puzzle.md)
 
@@ -141,7 +163,9 @@ Angela opened the puzzle and pieces were getting stuck mid-drag. Grok fixed wind
 
 ---
 
-## RoseOps — the big build (short version)
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=RoseOps%20%E2%80%94%20the%20big%20build%20(short%20version)&fontSize=22&fontColor=e6edf3" width="720" alt="RoseOps — the big build (short version)" /></p>
+
 
 **Code:** [github.com/DaCameraGirl/RoseOps-Studio](https://github.com/DaCameraGirl/RoseOps-Studio) · **Live:** [dacameragirl.github.io/RoseOps-Studio](https://dacameragirl.github.io/RoseOps-Studio/) · **My notes:** [projects/roseops.md](./projects/roseops.md)
 
@@ -172,26 +196,34 @@ See [PR-LOG.md](./PR-LOG.md) for branches and titles.
 
 </details>
 
-## Bettin2Win — odds dashboard sprint
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Bettin2Win%20%E2%80%94%20odds%20dashboard%20sprint&fontSize=22&fontColor=e6edf3" width="720" alt="Bettin2Win — odds dashboard sprint" /></p>
+
 
 **Code:** [github.com/DaCameraGirl/Bettin2Win](https://github.com/DaCameraGirl/Bettin2Win) · **Live:** [dacameragirl.github.io/Bettin2Win](https://dacameragirl.github.io/Bettin2Win/) · **My notes:** [projects/bettin2win.md](./projects/bettin2win.md)
 
 Weather Impact badges, board filters, aurora theme, README language bar + 9 translations — [PRs #74–#83](./PR-LOG.md#bettin2win).
 
-## Project Obsidian — rubric tools
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Project%20Obsidian%20%E2%80%94%20rubric%20tools&fontSize=22&fontColor=e6edf3" width="720" alt="Project Obsidian — rubric tools" /></p>
+
 
 **Code:** [github.com/DaCameraGirl/Obsidian](https://github.com/DaCameraGirl/Obsidian) · **Local tool:** `Project Obsidian/rubric-generator.html` on Desktop · **My notes:** [projects/obsidian.md](./projects/obsidian.md)
 
 Rubric generator fixes, 83% WHOOP gold example, Multimango workflow — [PRs #16–#26](./PR-LOG.md#project-obsidian).
 
-## Latent Space Observatory + Solar Planets — the twin build
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=Latent%20Space%20Observatory%20%2B%20Solar%20Planets%20%E2%80%94%20the%20twin%20build&fontSize=22&fontColor=e6edf3" width="720" alt="Latent Space Observatory + Solar Planets — the twin build" /></p>
+
 
 **Latent:** [github.com/DaCameraGirl/latent-observatory](https://github.com/DaCameraGirl/latent-observatory) · [live](https://dacameragirl.github.io/latent-observatory/) · [My notes](./projects/latent-observatory.md)  
 **Solar:** [github.com/DaCameraGirl/solar-planets](https://github.com/DaCameraGirl/solar-planets) · [live](https://dacameragirl.github.io/solar-planets/) · [My notes](./projects/solar-planets.md)
 
 Angela wanted **two products**: real embedding geometry in one app, theatrical solar tour in another. Grok split the repos, killed the demo field, shipped premiere gold-cyan glass on both, then wrapped them in your signature animated README package — hero SVG, 10-language badge bar, live/hub badges — plus shimmering **GitHub Pages · Live** links in each settings panel and a proper **Solar Planets** desktop icon.
 
-## AI Video Annotator Suite — blank Pages rescue
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=AI%20Video%20Annotator%20Suite%20%E2%80%94%20blank%20Pages%20rescue&fontSize=22&fontColor=e6edf3" width="720" alt="AI Video Annotator Suite — blank Pages rescue" /></p>
+
 
 **Code:** [github.com/DaCameraGirl/AI-Video-Annotator](https://github.com/DaCameraGirl/AI-Video-Annotator) · **Live:** [dacameragirl.github.io/AI-Video-Annotator](https://dacameragirl.github.io/AI-Video-Annotator/) · **My notes:** [projects/ai-video-annotator.md](./projects/ai-video-annotator.md)
 
@@ -199,7 +231,9 @@ The warehouse video Suite was showing a white page because GitHub Pages publishe
 
 ---
 
-## How to find me next session
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=How%20to%20find%20me%20next%20session&fontSize=22&fontColor=e6edf3" width="720" alt="How to find me next session" /></p>
+
 
 1. Open this repo: [github.com/DaCameraGirl/groks-work](https://github.com/DaCameraGirl/groks-work)
 2. Read [PROJECTS.md](./PROJECTS.md) for where we left off
